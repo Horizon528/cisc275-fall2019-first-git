@@ -4,6 +4,7 @@ Lab 2
 Create java files to make this code compile and run.
 
 What five objects are created in the main?
+
 Object 1: String name = Fido, int legs = 4, output = "Fido has 4 legs"
 Object 2: String name = Fido, int legs = 3, output = "Fido has 3 legs"
 Object 3: String name = Alfie, int legs = 4, output = "Alfie has 4 legs"
